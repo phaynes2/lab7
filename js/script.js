@@ -6,5 +6,5 @@ function init(){
  alert ("Paul Haynes: " + info.value);
  document.getElementById("textoutput").innerHTML = info.value;
  window.alert("sometext");
-
+ })
 window.addEventListener('load', init);
